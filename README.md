@@ -15,15 +15,15 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/menu.png)
+![image]()
 
 После отправки JSON c ошибкой:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/syntax.png)
+![image]()
 
 Пример работы бьютифаера:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/beautifaer.png)
+![image]()
 
 
 ## 💻 Технологии
@@ -61,4 +61,4 @@ python3 json_bot.py
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Илья Соколовский ([@IlyaSokolovsk](https://t.me/IlyaSokolovsk))
