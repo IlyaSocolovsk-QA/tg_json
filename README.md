@@ -15,7 +15,7 @@
 
 Стартовое меню:
 
-![image]()
+![image](https://raw.githubusercontent.com/IlyaSokolovsky-QA/tg_json/refs/heads/main/menu.png)
 
 После отправки JSON c ошибкой:
 
