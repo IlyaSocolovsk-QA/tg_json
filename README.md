@@ -23,7 +23,7 @@
 
 Пример работы бьютифаера:
 
-![image]()
+![image](https://raw.githubusercontent.com/IlyaSokolovsky-QA/tg_json/refs/heads/main/beautifaer.png)
 
 
 ## 💻 Технологии
